@@ -87,9 +87,13 @@ Expected output:
 
    📌 Project Structure
 Task4Prodigy/
+
 ├─ server.js
+
 ├─ routes/userRoutes.js
+
 ├─ models/User.js
+
 ├─ redisClient.js
 
 
